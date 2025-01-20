@@ -1,0 +1,30 @@
+node_modules
+
+package.json
+package-lock.json
+test.py
+__pycache__
+.venv
+
+# Bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment folders
+venv/
+.env/
+
+# IDE or editor specific files
+.idea/
+.vscode/
+
+# Dependency management
+Pipfile.lock
+*.egg-info/
+dist/
+build/
+
+# Operating system specific files
+.DS_Store   # macOS
+Thumbs.db   # Windows
